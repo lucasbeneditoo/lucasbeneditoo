@@ -8,7 +8,7 @@ Tenho interesse em desenvolvimento de software, projetos open-source e explorar 
 
 - 🎵 Desenvolvendo o [Catchy](https://github.com/lucasbeneditoo/Catchy), um player de música desktop para bibliotecas locais.
 - 💻 Trabalhando principalmente com C# e Avalonia UI.
-- 📚 Estudando Python, C++ e desenvolvimento de software.
+- 📚 Estudando Python, C# e desenvolvimento de software.
 
 ### Tecnologias
 
